@@ -53,7 +53,7 @@
 //.
 //. If the _version_ is not given, it is assumed to be `0`.
 
-export {identifierOf, parseIdentifier};
+export {identifierOf as default, identifierOf, parseIdentifier};
 
 //  $$type :: String
 const $$type = '@@type';
