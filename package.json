@@ -18,9 +18,9 @@
     "release": "sanctuary-release",
     "test": "npm run lint && sanctuary-test && npm run doctest"
   },
-  "dependencies": {},
   "devDependencies": {
-    "sanctuary-scripts": "7.0.x"
+    "sanctuary-scripts": "7.0.x",
+    "sanctuary-style": "8.0.x"
   },
   "files": [
     "/LICENSE",
